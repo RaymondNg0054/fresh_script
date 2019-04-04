@@ -50,7 +50,7 @@ The following arguments can be passed to the script
 
 | Short | Long             | Type   | Description |
 |-------|------------------|--------|-------------|
-| -s    | --sort           | string | Sort by hot, new, rising, random_rising, controversion or top |
+| -s    | --sort           | string | Sort by hot, new, rising, random_rising, controversial or top |
 | -l    | --limit          | int    | How many posts to grab |
 | -t    | --threshold      | int    | Only posts with score above threshold |
 | -f    | --fresh          | bool   | Only add tracks with the \[FRESH\] tag |
